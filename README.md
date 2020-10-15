@@ -42,7 +42,7 @@ See the classroom instruction and code comments for more details on each of thes
     - BRISK
     - ORB
     - AKAZE
-    - SIFT (Patent encumbered, https://patents.google.com/patent/US6711293B1/en)
+    - SIFT
 3. Use OpenCV to extract keypoint descriptors.
     - BRISK
     - BRIEF
