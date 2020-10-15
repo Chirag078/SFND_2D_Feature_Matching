@@ -66,17 +66,12 @@ dataBuffer.push_back(frame);
 
 ### MP.2 Keypoint detection
  - Code is implimented to cover MP.2 from the Lines 82-107 in MidTermProject_Camera_Student.cpp file
-```
-string detectorType = "...";  // Uncomment to set detector selection
-```
+
 ### MP.3 Keypoint removal
 Code is implimented to cover MP.3 from the line 115-124 in MidTermProject_Camera_Student.cpp file
 
 ### MP.4 Keypoint descriptors
 Code is implimented to cover MP.4 from the line 150-152 in MidTermProject_Camera_Student.cpp_
-```
-string descriptorType = "...";  // Uncomment to set descriptor selection
-```
 
 ### MP.5 Descriptor matching
 The function `matchDescriptors` in `matching2D_Student.cpp` contains a kind of decision tree structure, based on the settings of these string parameters:
